@@ -1,0 +1,20 @@
+{
+  "name": "ai-agent-expert",
+  "version": "1.0.0",
+  "description": "AI Agent development expert skill — architecture, performance, backend & database design for building production-grade AI agents",
+  "author": {
+    "name": "icestarx",
+    "url": "https://github.com/icestarx"
+  },
+  "repository": "https://github.com/icestarx/ice-claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "ai-agent",
+    "agent-architecture",
+    "llm",
+    "backend",
+    "database",
+    "performance",
+    "production"
+  ]
+}
